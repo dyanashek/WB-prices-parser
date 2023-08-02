@@ -31,8 +31,6 @@ HEADERS = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleW
 SEARCH_ADVERTS_URL = 'https://catalog-ads.wildberries.ru/api/v5/search?keyword='
 PRODUCT_ADVERTS_URL = f'https://carousel-ads.wildberries.ru/api/v4/carousel?nm='
 
-SUBSCRIPTION_PRICE = 99
-
 REFERRAL_START_BONUS = 20
 
 BONUS_PERCENT = 0.2
